@@ -1,8 +1,8 @@
 ### Oi! Sou o Luiz Simas 👋🧑🏽‍💻
 
-- 🔭 Trabalhando com Dev/DevOps - Centro de Tecnologia da Informação e Comunicação da Universidade Federal do Amazonas - UFAM;
+- 🔭 Trabalhando com Engenheiro de Software / DevOps - Procuradoria-Geral da Fazenda Nacional - PGFN;
 - 🌱 Estudando Flutter;
-- 👯 Colaborando atualmente com projetos em Java, Grails para estruturas de SSO;
+- 👯 Colaborando atualmente com projetos em Java, Grails, Dart;
 - 📫 lsimas@ufam.edu.br
 
 <div style="display: inline_block"><br>
