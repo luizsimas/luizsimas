@@ -35,6 +35,5 @@
 
 ##
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsimas)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsimas&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
