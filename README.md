@@ -37,4 +37,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsimas&count_private=true&show_icons=true&theme=outrun)](https://github.com/luizsimas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsimas)](https://github.com/luizsimas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsimascount_private=true&theme=outrun)](https://github.com/luizsimas)
