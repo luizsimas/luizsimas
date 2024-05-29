@@ -1,8 +1,8 @@
 ### Oi! Sou o Luiz Simas 👋🧑🏽‍💻
 
-- 🔭 Trabalhando com Engenheiro de Software / DevOps - Procuradoria-Geral da Fazenda Nacional - PGFN;
-- 🌱 Estudando Flutter;
-- 👯 Colaborando atualmente com projetos em Java, Grails, Dart e projetos DevOps;
+- 💻 Trabalhando com Engenheiro de Software / DevOps - Procuradoria-Geral da Fazenda Nacional - PGFN;
+- 📚 Estudando Flutter;
+- ♻️ Colaborando atualmente com projetos em Java, Grails, Dart e projetos DevOps;
 - 📫 luizsimas.7@gmail.com
 
 <div style="display: inline_block"><br>
