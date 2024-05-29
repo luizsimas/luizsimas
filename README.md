@@ -36,5 +36,5 @@
 ##
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsimas&count_private=true&show_icons=true&theme=outrun&card_width=450)](https://github.com/luizsimas)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsimas&count_private=true&show_icons=true&theme=outrun&card_width=500)](https://github.com/luizsimas)<br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@luizsimas&theme=outrun&layout=compact)](https://github.com/luizsimas)
