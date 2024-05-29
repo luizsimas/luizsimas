@@ -2,8 +2,8 @@
 
 - 🔭 Trabalhando com Engenheiro de Software / DevOps - Procuradoria-Geral da Fazenda Nacional - PGFN;
 - 🌱 Estudando Flutter;
-- 👯 Colaborando atualmente com projetos em Java, Grails, Dart;
-- 📫 lsimas@ufam.edu.br
+- 👯 Colaborando atualmente com projetos em Java, Grails, Dart e projetos DevOps;
+- 📫 luizsimas.7@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -20,6 +20,7 @@
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Luiz-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img align="center" alt="Luiz-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Luiz-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Luiz-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
           
